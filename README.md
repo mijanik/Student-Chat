@@ -1,2 +1,9 @@
 # Student-Chat
-Student Chat = made in python - socket lib
+Authors:
+Miłosz Janik
+Antoni Kijania
+Kacper Czepiec
+
+https://replit.com/@MioszJanik/Student-Chat-MJAKKC
+
+Multi-client network chat
